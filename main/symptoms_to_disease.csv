@@ -1,0 +1,649 @@
+Symptom,Disease,Weight
+headache,Hypertension,1.5
+chest pain,Hypertension,1.5
+dizziness,Hypertension,1
+lack of concentration,Hypertension,1
+loss of balance,Hypertension,1
+weakness in limbs,Cervical spondylosis,1
+neck pain,Cervical spondylosis,1.5
+dizziness,Cervical spondylosis,1
+back pain,Cervical spondylosis,1.5
+loss of balance,Cervical spondylosis,1
+continuous sneezing,Allergy,1
+shivering,Allergy,1
+chills,Allergy,1
+watering from eyes,Allergy,1
+stomach pain,Drug Reaction,1.5
+skin rash,Drug Reaction,1
+spotting  urination,Drug Reaction,1
+burning micturition,Drug Reaction,1
+itching,Drug Reaction,1
+itching,Fungal infection,1
+skin rash,Fungal infection,1
+nodal skin eruptions,Fungal infection,1
+dischromic  patches,Fungal infection,1
+yellowing of eyes,Chronic cholestasis,1
+abdominal pain,Chronic cholestasis,1.5
+yellowish skin,Chronic cholestasis,1
+vomiting,Chronic cholestasis,1.5
+itching,Chronic cholestasis,1
+loss of appetite,Chronic cholestasis,1
+nausea,Chronic cholestasis,1.5
+burning micturition,Urinary tract infection,1
+bladder discomfort,Urinary tract infection,1
+foul smell of urine,Urinary tract infection,1
+continuous feel of urine,Urinary tract infection,1
+headache,(vertigo) Paroymsal  Positional Vertigo,1.5
+vomiting,(vertigo) Paroymsal  Positional Vertigo,1.5
+nausea,(vertigo) Paroymsal  Positional Vertigo,1.5
+spinning movements,(vertigo) Paroymsal  Positional Vertigo,1
+unsteadiness,(vertigo) Paroymsal  Positional Vertigo,1
+loss of balance,(vertigo) Paroymsal  Positional Vertigo,1
+malaise,Tuberculosis,1
+weight loss,Tuberculosis,1
+vomiting,Tuberculosis,1.5
+fatigue,Tuberculosis,1
+sweating,Tuberculosis,1
+chills,Tuberculosis,1
+loss of appetite,Tuberculosis,1
+breathlessness,Tuberculosis,1
+cough,Tuberculosis,1.5
+phlegm,Tuberculosis,1
+blood in sputum,Tuberculosis,1
+yellowing of eyes,Tuberculosis,1
+chest pain,Tuberculosis,1.5
+swelled lymph nodes,Tuberculosis,1
+high fever,Tuberculosis,1.5
+mild fever,Tuberculosis,1.5
+stomach pain,GERD,1.5
+chest pain,GERD,1.5
+vomiting,GERD,1.5
+ulcers on tongue,GERD,1
+cough,GERD,1.5
+acidity,GERD,1
+yellowing of eyes,Hepatitis D,1
+abdominal pain,Hepatitis D,1.5
+yellowish skin,Hepatitis D,1
+vomiting,Hepatitis D,1.5
+fatigue,Hepatitis D,1
+joint pain,Hepatitis D,1.5
+dark urine,Hepatitis D,1
+loss of appetite,Hepatitis D,1
+nausea,Hepatitis D,1.5
+fatigue,Bronchial Asthma,1
+family history,Bronchial Asthma,1
+high fever,Bronchial Asthma,1.5
+breathlessness,Bronchial Asthma,1
+cough,Bronchial Asthma,1.5
+mucoid sputum,Bronchial Asthma,1
+yellowing of eyes,Hepatitis C,1
+yellowish skin,Hepatitis C,1
+fatigue,Hepatitis C,1
+family history,Hepatitis C,1
+loss of appetite,Hepatitis C,1
+nausea,Hepatitis C,1.5
+headache,Migraine,1.5
+depression,Migraine,1
+visual disturbances,Migraine,1
+blurred and distorted vision,Migraine,1
+stiff neck,Migraine,1
+excessive hunger,Migraine,1
+indigestion,Migraine,1
+irritability,Migraine,1
+acidity,Migraine,1
+abdominal pain,Jaundice,1.5
+vomiting,Jaundice,1.5
+fatigue,Jaundice,1
+dark urine,Jaundice,1
+high fever,Jaundice,1.5
+itching,Jaundice,1
+yellowish skin,Jaundice,1
+weight loss,Jaundice,1
+pain during bowel movements,Dimorphic hemmorhoids(piles),1.5
+bloody stool,Dimorphic hemmorhoids(piles),1
+pain in anal region,Dimorphic hemmorhoids(piles),1.5
+constipation,Dimorphic hemmorhoids(piles),1
+irritation in anus,Dimorphic hemmorhoids(piles),1
+headache,Chicken pox,1.5
+swelled lymph nodes,Chicken pox,1
+malaise,Chicken pox,1
+fatigue,Chicken pox,1
+lethargy,Chicken pox,1
+loss of appetite,Chicken pox,1
+itching,Chicken pox,1
+skin rash,Chicken pox,1
+red spots over body,Chicken pox,1
+high fever,Chicken pox,1.5
+mild fever,Chicken pox,1.5
+vomiting,Paralysis (brain hemorrhage),1.5
+headache,Paralysis (brain hemorrhage),1.5
+weakness of one body side,Paralysis (brain hemorrhage),1
+altered sensorium,Paralysis (brain hemorrhage),1
+muscle weakness,Hyperthyroidism,1
+diarrhoea,Hyperthyroidism,1
+abnormal menstruation,Hyperthyroidism,1
+weight loss,Hyperthyroidism,1
+fatigue,Hyperthyroidism,1
+sweating,Hyperthyroidism,1
+excessive hunger,Hyperthyroidism,1
+mood swings,Hyperthyroidism,1
+restlessness,Hyperthyroidism,1
+irritability,Hyperthyroidism,1
+fast heart rate,Hyperthyroidism,1
+cold hands and feets,Hypothyroidism,1
+abnormal menstruation,Hypothyroidism,1
+dizziness,Hypothyroidism,1
+enlarged thyroid,Hypothyroidism,1
+puffy face and eyes,Hypothyroidism,1
+fatigue,Hypothyroidism,1
+brittle nails,Hypothyroidism,1
+mood swings,Hypothyroidism,1
+lethargy,Hypothyroidism,1
+irritability,Hypothyroidism,1
+weight gain,Hypothyroidism,1
+depression,Hypothyroidism,1
+swollen extremeties,Hypothyroidism,1
+fatigue,Varicose veins,1
+swollen legs,Varicose veins,1
+swollen blood vessels,Varicose veins,1
+cramps,Varicose veins,1
+prominent veins on calf,Varicose veins,1
+bruising,Varicose veins,1
+obesity,Varicose veins,1
+vomiting,Gastroenteritis,1.5
+sunken eyes,Gastroenteritis,1
+dehydration,Gastroenteritis,1
+diarrhoea,Gastroenteritis,1
+vomiting,Heart attack,1.5
+breathlessness,Heart attack,1
+sweating,Heart attack,1
+chest pain,Heart attack,1.5
+small dents in nails,Psoriasis,1
+skin rash,Psoriasis,1
+joint pain,Psoriasis,1.5
+silver like dusting,Psoriasis,1
+inflammatory nails,Psoriasis,1
+skin peeling,Psoriasis,1
+muscle weakness,Arthritis,1
+movement stiffness,Arthritis,1
+painful walking,Arthritis,1.5
+stiff neck,Arthritis,1
+swelling joints,Arthritis,1
+yellowing of eyes,Hepatitis B,1
+yellow urine,Hepatitis B,1
+fatigue,Hepatitis B,1
+receiving unsterile injections,Hepatitis B,1
+dark urine,Hepatitis B,1
+lethargy,Hepatitis B,1
+loss of appetite,Hepatitis B,1
+itching,Hepatitis B,1
+abdominal pain,Hepatitis B,1.5
+malaise,Hepatitis B,1
+yellowish skin,Hepatitis B,1
+receiving blood transfusion,Hepatitis B,1
+muscle wasting,AIDS,1
+patches in throat,AIDS,1
+high fever,AIDS,1.5
+extra marital contacts,AIDS,1
+abdominal pain,Alcoholic hepatitis,1.5
+swelling of stomach,Alcoholic hepatitis,1
+yellowish skin,Alcoholic hepatitis,1
+vomiting,Alcoholic hepatitis,1.5
+distention of abdomen,Alcoholic hepatitis,1
+history of alcohol consumption,Alcoholic hepatitis,1
+fluid overload,Alcoholic hepatitis,1
+headache,Dengue,1.5
+malaise,Dengue,1
+muscle pain,Dengue,1.5
+vomiting,Dengue,1.5
+fatigue,Dengue,1
+back pain,Dengue,1.5
+chills,Dengue,1
+pain behind the eyes,Dengue,1.5
+joint pain,Dengue,1.5
+high fever,Dengue,1.5
+skin rash,Dengue,1
+red spots over body,Dengue,1
+loss of appetite,Dengue,1
+nausea,Dengue,1.5
+blurred and distorted vision,Diabetes,1
+obesity,Diabetes,1
+weight loss,Diabetes,1
+polyuria,Diabetes,1
+fatigue,Diabetes,1
+increased appetite,Diabetes,1
+excessive hunger,Diabetes,1
+irregular sugar level,Diabetes,1
+restlessness,Diabetes,1
+lethargy,Diabetes,1
+abdominal pain,Hepatitis E,1.5
+stomach bleeding,Hepatitis E,1
+yellowish skin,Hepatitis E,1
+vomiting,Hepatitis E,1.5
+high fever,Hepatitis E,1.5
+yellowing of eyes,Hepatitis E,1
+acute liver failure,Hepatitis E,1
+coma,Hepatitis E,1
+fatigue,Hepatitis E,1
+joint pain,Hepatitis E,1.5
+dark urine,Hepatitis E,1
+loss of appetite,Hepatitis E,1
+nausea,Hepatitis E,1.5
+yellow crust ooze,Impetigo,1
+skin rash,Impetigo,1
+red sore around nose,Impetigo,1
+high fever,Impetigo,1.5
+blister,Impetigo,1
+headache,Common Cold,1.5
+malaise,Common Cold,1
+muscle pain,Common Cold,1.5
+redness of eyes,Common Cold,1
+chills,Common Cold,1
+loss of smell,Common Cold,1
+cough,Common Cold,1.5
+phlegm,Common Cold,1
+sinus pressure,Common Cold,1
+runny nose,Common Cold,1
+throat irritation,Common Cold,1
+chest pain,Common Cold,1.5
+swelled lymph nodes,Common Cold,1
+continuous sneezing,Common Cold,1
+fatigue,Common Cold,1
+high fever,Common Cold,1.5
+congestion,Common Cold,1
+headache,Typhoid,1.5
+toxic look (typhos),Typhoid,1
+diarrhoea,Typhoid,1
+abdominal pain,Typhoid,1.5
+constipation,Typhoid,1
+vomiting,Typhoid,1.5
+fatigue,Typhoid,1
+chills,Typhoid,1
+high fever,Typhoid,1.5
+nausea,Typhoid,1.5
+belly pain,Typhoid,1.5
+neck pain,Osteoarthristis,1.5
+painful walking,Osteoarthristis,1.5
+knee pain,Osteoarthristis,1.5
+joint pain,Osteoarthristis,1.5
+swelling joints,Osteoarthristis,1
+hip joint pain,Osteoarthristis,1.5
+abdominal pain,hepatitis A,1.5
+yellowish skin,hepatitis A,1
+muscle pain,hepatitis A,1.5
+vomiting,hepatitis A,1.5
+mild fever,hepatitis A,1.5
+yellowing of eyes,hepatitis A,1
+diarrhoea,hepatitis A,1
+joint pain,hepatitis A,1.5
+dark urine,hepatitis A,1
+loss of appetite,hepatitis A,1
+nausea,hepatitis A,1.5
+passage of gases,Peptic ulcer diseae,1
+abdominal pain,Peptic ulcer diseae,1.5
+vomiting,Peptic ulcer diseae,1.5
+internal itching,Peptic ulcer diseae,1
+indigestion,Peptic ulcer diseae,1
+loss of appetite,Peptic ulcer diseae,1
+chest pain,Pneumonia,1.5
+malaise,Pneumonia,1
+fatigue,Pneumonia,1
+sweating,Pneumonia,1
+chills,Pneumonia,1
+rusty sputum,Pneumonia,1
+high fever,Pneumonia,1.5
+breathlessness,Pneumonia,1
+cough,Pneumonia,1.5
+phlegm,Pneumonia,1
+fast heart rate,Pneumonia,1
+headache,Malaria,1.5
+diarrhoea,Malaria,1
+muscle pain,Malaria,1.5
+vomiting,Malaria,1.5
+sweating,Malaria,1
+chills,Malaria,1
+high fever,Malaria,1.5
+nausea,Malaria,1.5
+headache,Hypoglycemia,1.5
+blurred and distorted vision,Hypoglycemia,1
+drying and tingling lips,Hypoglycemia,1
+vomiting,Hypoglycemia,1.5
+fatigue,Hypoglycemia,1
+sweating,Hypoglycemia,1
+excessive hunger,Hypoglycemia,1
+anxiety,Hypoglycemia,1
+irritability,Hypoglycemia,1
+palpitations,Hypoglycemia,1
+nausea,Hypoglycemia,1.5
+slurred speech,Hypoglycemia,1
+skin rash,Acne,1
+pus filled pimples,Acne,1
+blackheads,Acne,1
+scurring,Acne,1
+skin discoloration,Bruise,1
+tenderness,Bruise,1
+swelling,Bruise,1
+pain on touch,Bruise,1.5
+muscle pain,Muscle strain,1.5
+swelling,Muscle strain,1
+limited movement,Muscle strain,1
+muscle spasm,Muscle strain,1
+joint pain,Sprain,1.5
+swelling,Sprain,1
+bruising,Sprain,1
+reduced range of motion,Sprain,1
+redness,Minor Burn,1
+pain,Minor Burn,1.5
+peeling skin,Minor Burn,1
+swelling,Minor Burn,1
+bleeding,Cut/Wound,1
+pain,Cut/Wound,1.5
+redness,Cut/Wound,1
+swelling,Cut/Wound,1
+itching,Insect Bite,1
+redness,Insect Bite,1
+swelling,Insect Bite,1
+pain on touch,Insect Bite,1.5
+redness,Sunburn,1
+skin peeling,Sunburn,1
+pain on touch,Sunburn,1.5
+warm skin,Sunburn,1
+fluid filled bubble,Blister,1
+pain on touch,Blister,1.5
+swelling,Blister,1
+redness,Blister,1
+nasal bleeding,Nosebleed,1
+headache,Nosebleed,1.5
+dizziness,Nosebleed,1
+dry nasal passage,Nosebleed,1
+dull ache,Back pain,1
+stiffness,Back pain,1
+limited movement,Back pain,1
+pain worsens with activity,Back pain,1.5
+dull pain,Headache (non-migraine),1.5
+pressure around head,Headache (non-migraine),1
+fatigue,Headache (non-migraine),1
+irritability,Headache (non-migraine),1
+sudden muscle pain,Cramp,1.5
+tightness,Cramp,1
+limited movement,Cramp,1
+sharp pain,Cramp,1.5
+pain in tooth,Toothache,1.5
+swelling,Toothache,1
+sensitivity to hot or cold,Toothache,1
+bad breath,Toothache,1
+blurry vision,Eye strain,1
+dry eyes,Eye strain,1
+headache,Eye strain,1.5
+difficulty focusing,Eye strain,1
+throat irritation,Sore Throat (non-infectious),1
+pain when swallowing,Sore Throat (non-infectious),1.5
+hoarseness,Sore Throat (non-infectious),1
+dry throat,Sore Throat (non-infectious),1
+fever,Influenza (Flu),1.5
+chills,Influenza (Flu),1
+muscle aches,Influenza (Flu),1
+cough,Influenza (Flu),1.5
+congestion,Influenza (Flu),1
+runny nose,Influenza (Flu),1
+headaches,Influenza (Flu),1.5
+fatigue,Influenza (Flu),1
+facial pain,Sinusitis,1.5
+headache,Sinusitis,1.5
+nasal congestion,Sinusitis,1
+cough,Sinusitis,1.5
+fatigue,Sinusitis,1
+bad breath,Sinusitis,1
+tooth pain,Sinusitis,1.5
+sore throat,Strep Throat,1
+fever,Strep Throat,1.5
+swollen lymph nodes,Strep Throat,1
+headache,Strep Throat,1.5
+white patches in throat,Strep Throat,1
+red eyes,Conjunctivitis (Pink Eye),1
+eye itchiness,Conjunctivitis (Pink Eye),1
+eye discharge,Conjunctivitis (Pink Eye),1
+swollen eyelids,Conjunctivitis (Pink Eye),1
+sensitivity to light,Conjunctivitis (Pink Eye),1
+ear pain,Ear Infection,1.5
+difficulty hearing,Ear Infection,1
+fluid drainage,Ear Infection,1
+fever,Ear Infection,1.5
+irritability,Ear Infection,1
+fatigue,Mononucleosis,1
+sore throat,Mononucleosis,1
+fever,Mononucleosis,1.5
+swollen lymph nodes,Mononucleosis,1
+body aches,Mononucleosis,1
+bullseye rash,Lyme Disease,1
+fever,Lyme Disease,1.5
+chills,Lyme Disease,1
+body aches,Lyme Disease,1
+fatigue,Lyme Disease,1
+swollen lymph nodes,Lyme Disease,1
+nausea,Food Poisoning,1.5
+vomiting,Food Poisoning,1.5
+diarrhea,Food Poisoning,1
+abdominal cramps,Food Poisoning,1
+fever,Food Poisoning,1.5
+dry skin,Eczema,1
+itching,Eczema,1
+red patches,Eczema,1
+skin inflammation,Eczema,1
+rough scaly patches,Eczema,1
+facial redness,Rosacea,1
+visible blood vessels,Rosacea,1
+swollen red bumps,Rosacea,1
+eye irritation,Rosacea,1
+joint pain,Gout,1.5
+joint swelling,Gout,1
+joint redness,Gout,1
+tenderness,Gout,1
+limited mobility,Gout,1
+severe pain,Kidney Stones,1.5
+nausea,Kidney Stones,1.5
+vomiting,Kidney Stones,1.5
+blood in urine,Kidney Stones,1
+frequent urination,Kidney Stones,1
+fatigue,Anemia,1
+weakness,Anemia,1
+pale skin,Anemia,1
+shortness of breath,Anemia,1
+dizziness,Anemia,1
+shortness of breath,COPD,1
+wheezing,COPD,1
+chronic cough,COPD,1.5
+chest tightness,COPD,1.5
+fatigue,COPD,1
+abdominal pain,Diverticulitis,1.5
+fever,Diverticulitis,1.5
+nausea,Diverticulitis,1.5
+constipation,Diverticulitis,1
+diarrhea,Diverticulitis,1
+pelvic pain,Endometriosis,1.5
+painful periods,Endometriosis,1.5
+pain during sex,Endometriosis,1.5
+infertility,Endometriosis,1
+fatigue,Endometriosis,1
+widespread pain,Fibromyalgia,1.5
+fatigue,Fibromyalgia,1
+sleep disturbances,Fibromyalgia,1
+cognitive difficulties,Fibromyalgia,1
+abdominal pain,Gallstones,1.5
+back pain,Gallstones,1.5
+nausea,Gallstones,1.5
+vomiting,Gallstones,1.5
+indigestion,Gallstones,1
+rectal bleeding,Hemorrhoids,1
+itching,Hemorrhoids,1
+pain,Hemorrhoids,1.5
+swelling,Hemorrhoids,1
+discomfort,Hemorrhoids,1
+abdominal pain,IBS (Irritable Bowel Syndrome),1.5
+bloating,IBS (Irritable Bowel Syndrome),1
+diarrhea,IBS (Irritable Bowel Syndrome),1
+constipation,IBS (Irritable Bowel Syndrome),1
+gas,IBS (Irritable Bowel Syndrome),1
+fatigue,Lupus,1
+joint pain,Lupus,1.5
+rash,Lupus,1
+fever,Lupus,1.5
+hair loss,Lupus,1
+vertigo,Meniere's Disease,1
+hearing loss,Meniere's Disease,1
+tinnitus,Meniere's Disease,1
+ear pressure,Meniere's Disease,1
+back pain,Osteoporosis,1.5
+loss of height,Osteoporosis,1
+stooped posture,Osteoporosis,1
+bone fractures,Osteoporosis,1
+tremors,Parkinson's Disease,1
+stiffness,Parkinson's Disease,1
+slow movement,Parkinson's Disease,1
+balance problems,Parkinson's Disease,1
+speech changes,Parkinson's Disease,1
+leg discomfort,Restless Legs Syndrome,1
+urge to move legs,Restless Legs Syndrome,1
+sleep disturbances,Restless Legs Syndrome,1
+daytime fatigue,Restless Legs Syndrome,1
+painful rash,Shingles,1.5
+itching,Shingles,1
+burning sensation,Shingles,1
+fever,Shingles,1.5
+headache,Shingles,1.5
+loud snoring,Sleep Apnea,1
+gasping for air,Sleep Apnea,1
+daytime sleepiness,Sleep Apnea,1
+morning headache,Sleep Apnea,1.5
+jaw pain,TMJ Disorders,1.5
+clicking sounds,TMJ Disorders,1
+difficulty chewing,TMJ Disorders,1
+headaches,TMJ Disorders,1.5
+ear pain,TMJ Disorders,1.5
+diarrhea,Ulcerative Colitis,1
+abdominal pain,Ulcerative Colitis,1.5
+rectal bleeding,Ulcerative Colitis,1
+weight loss,Ulcerative Colitis,1
+fatigue,Ulcerative Colitis,1
+severe cough,Whooping Cough,1.5
+runny nose,Whooping Cough,1
+fever,Whooping Cough,1.5
+vomiting after coughing,Whooping Cough,1.5
+exhaustion,Whooping Cough,1
+vaginal itching,Yeast Infection,1
+thick white discharge,Yeast Infection,1
+burning sensation,Yeast Infection,1
+redness,Yeast Infection,1
+facial weakness,Bell's Palsy,1
+drooping,Bell's Palsy,1
+difficulty closing eye,Bell's Palsy,1
+altered taste,Bell's Palsy,1
+hand numbness,Carpal Tunnel Syndrome,1
+tingling,Carpal Tunnel Syndrome,1
+weakness,Carpal Tunnel Syndrome,1
+pain radiating up arm,Carpal Tunnel Syndrome,1.5
+eye stinging,Dry Eye Syndrome,1
+burning sensation,Dry Eye Syndrome,1
+light sensitivity,Dry Eye Syndrome,1
+blurred vision,Dry Eye Syndrome,1
+swelling,Edema,1
+stretched shiny skin,Edema,1
+increased abdominal size,Edema,1
+puffiness,Edema,1
+red bumps,Folliculitis,1
+pus-filled blisters,Folliculitis,1
+itching,Folliculitis,1
+burning,Folliculitis,1
+tenderness,Folliculitis,1
+stomach pain,Gastritis,1.5
+nausea,Gastritis,1.5
+vomiting,Gastritis,1.5
+bloating,Gastritis,1
+indigestion,Gastritis,1
+high body temp,Heat Stroke,1
+altered mental state,Heat Stroke,1
+nausea,Heat Stroke,1.5
+rapid heartbeat,Heat Stroke,1
+headache,Heat Stroke,1.5
+difficulty falling asleep,Insomnia,1
+waking up often,Insomnia,1
+daytime tiredness,Insomnia,1
+irritability,Insomnia,1
+red itchy rash,Jock Itch,1
+burning sensation,Jock Itch,1
+flaking skin,Jock Itch,1
+worsening with sweating,Jock Itch,1
+back pain,Kidney Infection,1.5
+fever,Kidney Infection,1.5
+frequent urination,Kidney Infection,1
+burning urination,Kidney Infection,1
+nausea,Kidney Infection,1.5
+hoarseness,Laryngitis,1
+weak voice,Laryngitis,1
+throat tickling,Laryngitis,1
+raw throat,Laryngitis,1
+dry cough,Laryngitis,1.5
+breast pain,Mastitis,1.5
+swelling,Mastitis,1
+warmth,Mastitis,1
+redness,Mastitis,1
+fever,Mastitis,1.5
+chills,Mastitis,1
+diarrhea,Norovirus,1
+stomach pain,Norovirus,1.5
+vomiting,Norovirus,1.5
+nausea,Norovirus,1.5
+fever,Norovirus,1.5
+headache,Norovirus,1.5
+ear pain,Otitis Externa (Swimmer's Ear),1.5
+itchiness,Otitis Externa (Swimmer's Ear),1
+drainage,Otitis Externa (Swimmer's Ear),1
+muffled hearing,Otitis Externa (Swimmer's Ear),1
+redness,Otitis Externa (Swimmer's Ear),1
+heel pain,Plantar Fasciitis,1.5
+stiffness,Plantar Fasciitis,1
+worse in morning,Plantar Fasciitis,1
+pain after standing,Plantar Fasciitis,1.5
+cold fingers toes,Raynaud's Phenomenon,1
+color changes,Raynaud's Phenomenon,1
+numbness,Raynaud's Phenomenon,1
+tingling,Raynaud's Phenomenon,1
+pain,Raynaud's Phenomenon,1.5
+lower back pain,Sciatica,1.5
+leg pain,Sciatica,1.5
+hip pain,Sciatica,1.5
+numbness,Sciatica,1
+tingling,Sciatica,1
+ringing in ears,Tinnitus,1
+buzzing,Tinnitus,1
+hissing,Tinnitus,1
+clicking,Tinnitus,1
+roaring sounds,Tinnitus,1
+red welts,Urticaria (Hives),1
+itching,Urticaria (Hives),1
+swelling,Urticaria (Hives),1
+burning,Urticaria (Hives),1
+stinging,Urticaria (Hives),1
+white patches on skin,Vitiligo,1
+premature whitening of hair,Vitiligo,1
+loss of color in mouth,Vitiligo,1
+small fleshy bumps,Warts,1
+rough surface,Warts,1
+black pinpoints,Warts,1
+pain when pressed,Warts,1.5
+dry mouth,Xerostomia (Dry Mouth),1
+sticky saliva,Xerostomia (Dry Mouth),1
+bad breath,Xerostomia (Dry Mouth),1
+difficulty chewing,Xerostomia (Dry Mouth),1
+sore throat,Xerostomia (Dry Mouth),1
+fever,Yellow Fever,1.5
+headache,Yellow Fever,1.5
+muscle pain,Yellow Fever,1.5
+nausea,Yellow Fever,1.5
+vomiting,Yellow Fever,1.5
+fatigue,Yellow Fever,1
+hair loss,Zinc Deficiency,1
+diarrhea,Zinc Deficiency,1
+eye skin lesions,Zinc Deficiency,1
+loss of appetite,Zinc Deficiency,1
+slow healing,Zinc Deficiency,1

@@ -1,0 +1,112 @@
+Disease,Description,Severity,Urgency,Precautions
+Hypertension,"A chronic condition with elevated blood pressure, increasing the risk of heart disease and stroke.",medium,high,Try meditating daily to help keep stress in check.; Enjoy relaxing salt baths to soothe your body.; Take breaks and avoid overwhelming situations.; Get 7–8 hours of restful sleep each night.
+Cervical spondylosis,"Age-related wear affecting the spinal disks in the neck, often causing pain and stiffness.",medium,high,Use a heating pad or cold pack to ease the pain.; Do light exercise regularly to stay active and improve recovery.; Try over-the-counter pain relievers if needed.; Reach out to a doctor for long-term care guidance.
+Allergy,An immune system reaction to a foreign substance not typically harmful to your body.,medium,low,Apply calamine lotion for skin relief.; Gently cover the affected area with a clean bandage.; Use a cool compress to ease itching and swelling.
+Drug Reaction,No description available.,medium,high,Avoid touching irritated areas to prevent worsening.; Visit the nearest hospital as soon as possible.; Stop using the medication immediately.; Schedule a follow-up with your healthcare provider.
+Fungal infection,No description available.,medium,low,"Take a bath twice a day to keep the skin clean.; Add Dettol or neem to your bath water for extra protection.; Keep the infected area clean and dry.; Always use fresh, clean clothes."
+Chronic cholestasis,No description available.,medium,high,Cold baths; Anti itch medicine; Reach out to a doctor for long-term care guidance.; Eat healthy
+Urinary tract infection,No description available.,medium,low,Drink plenty of water; Increase vitamin c intake; Drink cranberry juice; Take probiotics
+(vertigo) Paroymsal  Positional Vertigo,No description available.,medium,high,Lie down; Avoid sudden change in body; Avoid abrupt head movment; Relax
+Tuberculosis,A potentially serious infectious disease that mainly affects the lungs.,medium,high,Cover mouth; Reach out to a doctor for long-term care guidance.; Medication; Rest
+GERD,No description available.,high,high,Avoid fatty spicy food; Avoid lying down after eating; Maintain healthy weight; Do light exercise regularly to stay active and improve recovery.
+Hepatitis D,No description available.,medium,high,Reach out to a doctor for long-term care guidance.; Medication; Eat healthy; Schedule a follow-up with your healthcare provider.
+Bronchial Asthma,No description available.,medium,high,Switch to loose cloothing; Take deep breaths; Get away from trigger; Seek help
+Hepatitis C,No description available.,medium,high,Visit the nearest hospital as soon as possible.; Vaccination; Eat healthy; Medication
+Migraine,A neurological condition characterized by intense headaches often accompanied by nausea and sensitivity to light.,medium,high,Try meditating daily to help keep stress in check.; Take breaks and avoid overwhelming situations.; Use poloroid glasses in sun; Reach out to a doctor for long-term care guidance.
+Jaundice,"Yellowing of the skin and eyes due to high bilirubin levels, often linked to liver issues.",medium,high,Drink plenty of water; Consume milk thistle; Eat fruits and high fiberous food; Medication
+Dimorphic hemmorhoids(piles),No description available.,medium,high,Avoid fatty spicy food; Consume witch hazel; Warm bath with epsom salt; Consume alovera juice
+Chicken pox,No description available.,medium,high,Use neem in bathing; Consume neem leaves; Take vaccine; Avoid public places
+Paralysis (brain hemorrhage),No description available.,medium,high,Massage; Eat healthy; Do light exercise regularly to stay active and improve recovery.; Reach out to a doctor for long-term care guidance.
+Hyperthyroidism,"A condition where the thyroid gland produces too much hormone, speeding up metabolism and heart rate.",medium,low,Eat healthy; Massage; Use lemon balm; Take radioactive iodine treatment
+Hypothyroidism,"A condition where the thyroid gland doesn't produce enough hormones, leading to fatigue and weight gain.",medium,low,Take breaks and avoid overwhelming situations.; Do light exercise regularly to stay active and improve recovery.; Eat healthy; Get 7–8 hours of restful sleep each night.
+Varicose veins,No description available.,medium,low,Lie down flat and raise the leg high; Use oinments; Use vein compression; Dont stand still for long
+Gastroenteritis,No description available.,medium,high,Stop eating solid food for while; Try taking small sips of water; Rest; Ease back into eating
+Heart attack,"A blockage of blood flow to the heart muscle, causing tissue damage.",medium,high,Call ambulance; Chew or swallow asprin; Keep calm
+Psoriasis,No description available.,medium,high,Wash hands with warm soapy water; Stop bleeding using pressure; Reach out to a doctor for long-term care guidance.; Enjoy relaxing salt baths to soothe your body.
+Arthritis,No description available.,medium,high,Do light exercise regularly to stay active and improve recovery.; Use hot and cold therapy; Try acupuncture; Massage
+Hepatitis B,No description available.,medium,high,Visit the nearest hospital as soon as possible.; Vaccination; Eat healthy; Medication
+AIDS,No description available.,medium,high,Avoid open cuts; Wear ppe if possible; Reach out to a doctor for long-term care guidance.; Schedule a follow-up with your healthcare provider.
+Alcoholic hepatitis,No description available.,medium,high,Stop alcohol consumption; Reach out to a doctor for long-term care guidance.; Medication; Schedule a follow-up with your healthcare provider.
+Dengue,A mosquito-borne viral infection causing flu-like symptoms and severe joint pain.,medium,high,Drink papaya leaf juice; Avoid fatty spicy food; Keep mosquitos away; Keep hydrated
+Diabetes,A chronic disease that affects how your body turns food into energy due to insulin issues.,medium,low,Have balanced diet; Do light exercise regularly to stay active and improve recovery.; Reach out to a doctor for long-term care guidance.; Schedule a follow-up with your healthcare provider.
+Hepatitis E,No description available.,medium,high,Stop alcohol consumption; Rest; Reach out to a doctor for long-term care guidance.; Medication
+Impetigo,No description available.,medium,high,Soak affected area in warm water; Use antibiotics; Remove scabs with wet compressed cloth; Reach out to a doctor for long-term care guidance.
+Common Cold,"A viral infectious disease affecting the upper respiratory tract, causing coughing, sneezing, and congestion.",medium,high,Drink vitamin c rich drinks; Take vapour; Avoid cold food; Keep fever in check
+Typhoid,No description available.,medium,high,Eat high calorie vegitables; Antiboitic therapy; Reach out to a doctor for long-term care guidance.; Medication
+Osteoarthristis,No description available.,high,high,Acetaminophen; Visit the nearest hospital as soon as possible.; Schedule a follow-up with your healthcare provider.; Enjoy relaxing salt baths to soothe your body.
+hepatitis A,No description available.,medium,high,Visit the nearest hospital as soon as possible.; Wash hands through; Avoid fatty spicy food; Medication
+Peptic ulcer diseae,No description available.,medium,high,Avoid fatty spicy food; Consume probiotic food; Eliminate milk; Limit alcohol
+Pneumonia,No description available.,medium,high,Reach out to a doctor for long-term care guidance.; Medication; Rest; Schedule a follow-up with your healthcare provider.
+Malaria,No description available.,high,high,Visit the nearest hospital as soon as possible.; Avoid oily food; Avoid non veg food; Keep mosquitos out
+Hypoglycemia,No description available.,medium,high,Lie down on side; Check in pulse; Drink sugary drinks; Reach out to a doctor for long-term care guidance.
+Acne,No description available.,medium,low,Take a bath twice a day to keep the skin clean.; Avoid fatty spicy food; Drink plenty of water; Avoid too many products
+Bruise,No description available.,medium,high,Apply ice; Elevate limb; Rest area; Avoid pressure
+Muscle strain,No description available.,medium,high,Rest; Apply ice; Compression; Elevation
+Sprain,No description available.,medium,high,Rest; Ice; Compression; Elevation
+Minor Burn,No description available.,medium,high,Run cool water; Apply aloe vera; Avoid popping blisters; Keep clean
+Cut/Wound,No description available.,medium,high,Clean wound; Apply antiseptic; Bandage; Monitor for infection
+Insect Bite,No description available.,medium,high,Apply calamine lotion for skin relief.; Use antihistamine cream; Avoid scratching; Keep area clean
+Sunburn,No description available.,medium,high,Apply aloe vera; Stay hydrated; Avoid sun exposure; Use cool compress
+Blister,No description available.,medium,high,Avoid popping; Clean area; Apply protective bandage; Use antiseptic if burst
+Nosebleed,No description available.,medium,high,Pinch nose; Lean forward; Apply ice on nose bridge; Avoid blowing nose
+Back pain,No description available.,medium,high,Rest; Apply heat or ice; Maintain posture; Gentle stretching
+Headache (non-migraine),No description available.,medium,high,Rest; Drink water; Avoid screens; Take mild painkiller if needed
+Cramp,No description available.,medium,high,Stretch muscle; Massage; Stay hydrated; Warm compress
+Toothache,No description available.,medium,high,Rinse with warm salt water; Use clove oil; Avoid sweet foods; Consult dentist
+Eye strain,No description available.,medium,high,Follow 20-20-20 rule; Reduce screen time; Adjust lighting; Use lubricating drops
+Sore Throat (non-infectious),No description available.,medium,high,Drink warm fluids; Avoid spicy foods; Use throat lozenges; Rest voice
+Influenza (Flu),No description available.,medium,high,Annual flu vaccine; Wash hands frequently; Cover coughs; Stay home when sick
+Sinusitis,No description available.,medium,high,Use humidifier; Nasal irrigation; Stay hydrated; Avoid irritants
+Strep Throat,No description available.,medium,high,Avoid sharing utensils; Wash hands; Cover mouth; Complete antibiotics
+Conjunctivitis (Pink Eye),No description available.,medium,low,Avoid touching eyes; Wash hands; Don't share towels; Replace eye makeup
+Ear Infection,No description available.,medium,high,Avoid secondhand smoke; Dry ears after swimming; Treat allergies; Vaccinations
+Mononucleosis,No description available.,medium,high,Get plenty of rest; Stay hydrated; Avoid contact_sports; Pain relievers
+Lyme Disease,No description available.,medium,high,Use insect repellent; Check for ticks; Wear protective clothing; Remove ticks promptly
+Food Poisoning,No description available.,high,high,Proper food handling; Cook thoroughly; Refrigerate promptly; Wash produce
+Eczema,No description available.,medium,low,Moisturize regularly; Avoid irritants; Use mild soap; Manage stress
+Rosacea,No description available.,medium,low,Sun protection; Avoid triggers; Gentle skin care; Prescription treatments
+Gout,No description available.,medium,high,Stay hydrated; Limit alcohol; Maintain healthy weight; Avoid purine-rich foods
+Kidney Stones,No description available.,high,high,Drink plenty of water; Limit sodium; Moderate protein; Medications
+Anemia,No description available.,medium,low,Iron-rich diet; Vitamin c for absorption; Treat underlying cause; Supplements
+COPD,No description available.,medium,high,Quit smoking; Avoid pollutants; Vaccinations; Pulmonary rehabilitation
+Diverticulitis,No description available.,high,high,High-fiber diet; Stay hydrated; Regular exercise; Probiotics
+Endometriosis,No description available.,high,high,Pain management; Hormone therapy; Regular exercise; Surgery options
+Fibromyalgia,No description available.,medium,high,Regular exercise; Stress management; Good sleep habits; Medications
+Gallstones,No description available.,high,high,Maintain healthy weight; Eat balanced diet; Regular meals; Gradual weight loss
+Hemorrhoids,No description available.,medium,high,High-fiber diet; Stay hydrated; Don't strain; Exercise regularly
+IBS (Irritable Bowel Syndrome),No description available.,medium,high,Identify trigger foods; Manage stress; Regular exercise; Probiotics
+Lupus,No description available.,medium,high,Sun protection; Regular exercise; Healthy diet; Stress management
+Meniere's Disease,No description available.,medium,low,Low-salt diet; Limit caffeine; Stress management; Vestibular rehab
+Osteoporosis,No description available.,medium,high,Calcium-rich diet; Vitamin d; Weight-bearing exercise; Fall prevention
+Parkinson's Disease,No description available.,medium,low,Regular exercise; Physical therapy; Balanced diet; Medication management
+Restless Legs Syndrome,No description available.,medium,low,Regular exercise; Massage; Warm baths; Limit caffeine
+Shingles,No description available.,high,high,Vaccination; Early treatment; Cool compresses; Stress reduction
+Sleep Apnea,No description available.,medium,high,Maintain healthy weight; Avoid alcohol; Sleep on side; Cpap therapy
+TMJ Disorders,No description available.,high,high,Soft foods; Jaw exercises; Stress reduction; Avoid chewing gum
+Ulcerative Colitis,No description available.,medium,high,Small frequent meals; Identify trigger foods; Stress management; Medications
+Whooping Cough,No description available.,high,high,Vaccination; Cover coughs; Wash hands; Antibiotics for contacts
+Yeast Infection,No description available.,medium,low,Cotton underwear; Avoid douching; Limit sugar; Probiotics
+Bell's Palsy,No description available.,medium,low,Eye protection; Facial exercises; Medications; Physical therapy
+Carpal Tunnel Syndrome,No description available.,medium,high,Wrist splints; Ergonomic adjustments; Take breaks; Exercises
+Dry Eye Syndrome,No description available.,medium,low,Artificial tears; Humidifier; Blink regularly; Omega-3 supplements
+Edema,No description available.,medium,low,Reduce salt; Elevate legs; Compression stockings; Movement breaks
+Folliculitis,No description available.,medium,low,Clean shaving tools; Avoid tight clothing; Warm compresses; Antibiotics
+Gastritis,No description available.,high,high,Avoid irritants; Small meals; Manage stress; Limit nsaids
+Heat Stroke,No description available.,medium,high,Stay hydrated; Cool environment; Light clothing; Limit exertion in heat
+Insomnia,No description available.,medium,low,Regular schedule; Comfortable environment; Limit screens; Relaxation techniques
+Jock Itch,No description available.,medium,low,Keep area dry; Wear loose clothing; Antifungal powders; Shower after exercise
+Kidney Infection,No description available.,high,high,Stay hydrated; Urinate after sex; Proper hygiene; Complete antibiotics
+Laryngitis,No description available.,medium,high,Voice rest; Stay hydrated; Humidifier; Avoid irritants
+Mastitis,No description available.,medium,high,Frequent nursing; Proper latch; Massage; Antibiotics if needed
+Norovirus,No description available.,high,high,Wash hands thoroughly; Disinfect surfaces; Stay hydrated; Isolate when sick
+Otitis Externa (Swimmer's Ear),No description available.,medium,high,Dry ears after swimming; Ear plugs; Avoid objects in ear; Ear drops
+Plantar Fasciitis,No description available.,medium,high,Supportive shoes; Stretching; Ice massage; Night splints
+Raynaud's Phenomenon,No description available.,medium,high,Keep warm; Avoid stress; Don't smoke; Regular exercise
+Sciatica,No description available.,high,high,Good posture; Regular exercise; Proper lifting; Heat/ice therapy
+Tinnitus,No description available.,medium,low,Hearing protection; Manage stress; Limit loud noises; Sound therapy
+Urticaria (Hives),No description available.,medium,low,Identify triggers; Cool compresses; Loose clothing; Antihistamines
+Vitiligo,No description available.,medium,low,Sun protection; Cosmetic coverings; Stress management; Medical treatments
+Warts,No description available.,medium,high,Don't pick warts; Cover in public areas; Keep dry; Salicylic acid
+Xerostomia (Dry Mouth),No description available.,medium,low,Sip water; Sugarless gum; Humidifier; Avoid caffeine/alcohol
+Yellow Fever,No description available.,high,high,Vaccination; Mosquito protection; Stay indoors at peak times; Repellents
+Zinc Deficiency,No description available.,medium,low,Zinc-rich foods; Supplements if deficient; Balanced diet

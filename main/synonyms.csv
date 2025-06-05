@@ -1,0 +1,301 @@
+Symptom,Synonyms
+headache,"head pain,cephalalgia,head ache,migraine,head throbbing,head pounding,tension headache,sinus headache"
+chest pain,"thoracic pain,chest tightness,chest discomfort,heart pain,breastbone pain,sternum pain,angina"
+dizziness,"vertigo,lightheadedness,unsteadiness,wooziness,feeling faint,loss of balance,spinning sensation"
+lack of concentration,"brain fog,difficulty focusing,poor concentration,mental clouding,attention problems,cognitive dysfunction"
+loss of balance,"balance problems,unsteadiness,disequilibrium,staggering,off-balance feeling,ataxia"
+weakness in limbs,"limb weakness,arm/leg weakness,reduced strength in arms/legs,muscle weakness in extremities"
+neck pain,"cervical pain,stiff neck,sore neck,torticollis,nuchal pain,crick in neck"
+back pain,"lumbar pain,spinal pain,dorsalgia,ache in back,lower back ache,sciatica"
+continuous sneezing,"persistent sneezing,repeated sneezing,sneezing fits,uncontrollable sneezing"
+shivering,"trembling,shaking,chills,rigors,quivering,body tremors"
+chills,"shivering,rigors,goosebumps,feeling cold,chilliness"
+watering from eyes,"tearing,epiphora,watery eyes,excessive tearing,lacrimation"
+stomach pain,"abdominal pain,belly ache,tummy pain,gastric pain,stomach cramps"
+skin rash,"eruption,cutaneous eruption,dermatitis,hives,exanthem,skin irritation"
+spotting urination,"blood in urine,hematuria,pink urine,red urine,urinary bleeding"
+burning micturition,"dysuria,painful urination,burning when peeing,urethral burning"
+itching,"pruritus,itchy skin,cutaneous irritation,scratching urge"
+nodal skin eruptions,"skin nodules,lumps on skin,bumps under skin,cutaneous nodules"
+dischromic patches,"skin discoloration,uneven skin tone,hyperpigmentation,hypopigmentation"
+yellowing of eyes,"icterus,jaundice,scleral icterus,yellow sclera"
+abdominal pain,"stomach ache,belly pain,tummy pain,gastric pain,visceral pain"
+yellowish skin,"jaundice,icterus,yellow complexion,yellow tint"
+vomiting,"emesis,throwing up,puking,regurgitation,nausea with vomiting"
+loss of appetite,"anorexia,poor appetite,reduced hunger,not feeling hungry"
+nausea,"queasiness,sick feeling,upset stomach,feeling like vomiting"
+bladder discomfort,"urinary discomfort,vesical pain,bladder pressure,bladder pain"
+foul smell of urine,"malodorous urine,strong urine odor,bad-smelling urine"
+continuous feel of urine,"urinary urgency,persistent urge to urinate,constant bladder pressure"
+spinning movements,"vertigo,rotational dizziness,room spinning sensation"
+unsteadiness,"disequilibrium,off-balance feeling,staggering,gait instability"
+malaise,"general discomfort,uneasiness,feeling unwell,general weakness"
+weight loss,"unintentional weight reduction,body mass decrease,emaciation"
+fatigue,"tiredness,exhaustion,lethargy,weariness,lack of energy"
+sweating,"perspiration,diaphoresis,excessive sweating,night sweats"
+breathlessness,"dyspnea,shortness of breath,air hunger,labored breathing"
+cough,"tussis,hacking,coughing fits,persistent cough"
+phlegm,"sputum,mucus,expectoration,chest mucus"
+blood in sputum,"hemoptysis,coughing up blood,blood-streaked phlegm"
+swelled lymph nodes,"lymphadenopathy,enlarged glands,swollen glands"
+high fever,"pyrexia,elevated temperature,hyperthermia,febrile"
+mild fever,"low-grade fever,slight temperature,elevated temp"
+ulcers on tongue,"oral ulcers,tongue sores,aphthous ulcers,canker sores"
+acidity,"heartburn,acid reflux,pyrosis,indigestion"
+joint pain,"arthralgia,joint ache,joint discomfort,polyarthralgia"
+dark urine,"concentrated urine,deep yellow urine,tea-colored urine"
+family history,"genetic predisposition,hereditary factors"
+mucoid sputum,"mucus production,phlegm,respiratory secretions"
+depression,"low mood,sadness,clinical depression,melancholy"
+visual disturbances,"vision problems,eyesight issues,blurry vision"
+blurred and distorted vision,"blurry sight,unclear vision,visual distortion"
+stiff neck,"neck rigidity,nuchal rigidity,limited neck movement"
+excessive hunger,"polyphagia,increased appetite,constant hunger"
+indigestion,"dyspepsia,upset stomach,gastric discomfort"
+irritability,"moodiness,short temper,easily annoyed"
+pain during bowel movements,"defecation pain,rectal pain during BM"
+bloody stool,"hematochezia,rectal bleeding,blood in feces"
+pain in anal region,"anal pain,rectal pain,perianal discomfort"
+constipation,"irregularity,hard stools,infrequent bowel movements"
+irritation in anus,"anal itching,perianal irritation,rectal discomfort"
+lethargy,"sluggishness,lack of energy,listlessness"
+red spots over body,"petechiae,skin red dots,cutaneous spots"
+weakness of one body side,"hemiparesis,unilateral weakness"
+altered sensorium,"mental confusion,consciousness changes"
+muscle weakness,"myasthenia,reduced muscle strength"
+diarrhoea,"loose stools,frequent bowel movements"
+abnormal menstruation,"irregular periods,menstrual irregularities"
+mood swings,"emotional lability,affective instability"
+restlessness,"agitation,inability to relax"
+fast heart rate,"tachycardia,palpitations,rapid pulse"
+cold hands and feets,"peripheral coldness,extremity coldness"
+enlarged thyroid,"goiter,thyroid swelling"
+puffy face and eyes,"facial edema,periorbital swelling"
+brittle nails,"weak nails,easily broken nails"
+weight gain,"increased body mass,obesity"
+swollen extremeties,"peripheral edema,limb swelling"
+swollen legs,lower extremity edema
+swollen blood vessels,vascular engorgement
+cramps,"muscle spasms,charley horse"
+prominent veins on calf,varicose veins
+bruising,"contusions,ecchymoses"
+obesity,"overweight,adiposity"
+sunken eyes,enophthalmos
+dehydration,fluid depletion
+small dents in nails,nail pitting
+silver like dusting,scaly skin
+inflammatory nails,paronychia
+skin peeling,desquamation
+movement stiffness,bradykinesia
+painful walking,ambulation difficulty
+swelling joints,joint edema
+yellow urine,urobilinuria
+receiving unsterile injections,needle sharing
+dark urine,hyperbilirubinuria
+receiving blood transfusion,transfusion history
+muscle wasting,muscle atrophy
+patches in throat,pharyngeal lesions
+extra marital contacts,multiple partners
+swelling of stomach,abdominal distension
+distention of abdomen,abdominal bloating
+history of alcohol consumption,alcohol use
+fluid overload,volume overload
+muscle pain,myalgia
+pain behind the eyes,retro-orbital pain
+joint pain,arthralgia
+red spots over body,rash
+polyuria,excessive urination
+increased appetite,hyperphagia
+irregular sugar level,glucose instability
+stomach bleeding,gastrointestinal hemorrhage
+acute liver failure,fulminant hepatitis
+coma,unconsciousness
+yellow crust ooze,exudative lesions
+red sore around nose,nasal vestibulitis
+blister,vesicle
+redness of eyes,conjunctival injection
+loss of smell,anosmia
+sinus pressure,sinus congestion
+runny nose,rhinorrhea
+throat irritation,pharyngeal irritation
+toxic look (typhos),typhoid facies
+belly pain,abdominal discomfort
+knee pain,gonalgia
+hip joint pain,coxalgia
+passage of gases,flatulence
+internal itching,visceral pruritus
+rusty sputum,blood-tinged sputum
+drying and tingling lips,cheilosis
+anxiety,nervousness
+palpitations,heart fluttering
+slurred speech,dysarthria
+pus filled pimples,pustules
+blackheads,comedones
+scurring,cicatrization
+skin discoloration,dyschromia
+tenderness,pain on palpation
+limited movement,reduced mobility
+muscle spasm,cramps
+reduced range of motion,joint stiffness
+peeling skin,desquamation
+bleeding,hemorrhage
+warm skin,erythema
+fluid filled bubble,vesicle
+nasal bleeding,epistaxis
+dry nasal passage,nasal xerosis
+dull ache,constant pain
+stiffness,rigidity
+pain worsens with activity,exertional pain
+dull pain,aching
+pressure around head,head tightness
+sudden muscle pain,acute myalgia
+tightness,constriction
+sharp pain,stabbing pain
+pain in tooth,toothache
+sensitivity to hot or cold,dental hypersensitivity
+bad breath,halitosis
+blurry vision,visual blurring
+dry eyes,xerophthalmia
+difficulty focusing,concentration problems
+pain when swallowing,odynophagia
+hoarseness,dysphonia
+dry throat,pharyngeal xerosis
+muscle aches,myalgia
+congestion,nasal obstruction
+runny nose,rhinorrhea
+facial pain,prosopalgia
+white patches in throat,oral thrush
+eye itchiness,ocular pruritus
+eye discharge,ocular secretion
+swollen eyelids,blepharedema
+sensitivity to light,photophobia
+ear pain,otalgia
+difficulty hearing,hearing impairment
+fluid drainage,otorrhea
+body aches,general myalgia
+bullseye rash,erythema migrans
+diarrhea,loose stools
+abdominal cramps,stomach cramps
+dry skin,xerosis
+red patches,erythema
+skin inflammation,dermatitis
+rough scaly patches,hyperkeratosis
+facial redness,facial erythema
+visible blood vessels,telangiectasia
+swollen red bumps,papules
+eye irritation,ocular irritation
+joint swelling,arthroedema
+joint redness,articular erythema
+limited mobility,reduced movement
+severe pain,intense pain
+blood in urine,hematuria
+frequent urination,pollakiuria
+weakness,asthenia
+pale skin,pallor
+wheezing,bronchospasm
+chronic cough,persistent cough
+chest tightness,thoracic constriction
+pelvic pain,pelvic discomfort
+painful periods,dysmenorrhea
+pain during sex,dyspareunia
+infertility,sterility
+widespread pain,generalized pain
+sleep disturbances,insomnia
+cognitive difficulties,brain fog
+back pain,dorsalgia
+rectal bleeding,hematochezia
+bloating,abdominal distension
+gas,flatulence
+hair loss,alopecia
+vertigo,dizziness
+hearing loss,deafness
+tinnitus,ringing in ears
+ear pressure,aural fullness
+loss of height,stature decrease
+stooped posture,kyphosis
+bone fractures,pathologic fractures
+tremors,shaking
+slow movement,bradykinesia
+balance problems,disequilibrium
+speech changes,dysarthria
+leg discomfort,lower extremity pain
+urge to move legs,restless legs
+daytime fatigue,excessive daytime sleepiness
+painful rash,dermatitis
+burning sensation,dysesthesia
+loud snoring,stertor
+gasping for air,nocturnal dyspnea
+daytime sleepiness,somnolence
+morning headache,awakening headache
+jaw pain,temporomandibular pain
+clicking sounds,joint crepitus
+difficulty chewing,mastication problems
+ear pain,otalgia
+rectal bleeding,hematochezia
+severe cough,pertussis-like cough
+runny nose,rhinorrhea
+vomiting after coughing,post-tussive emesis
+exhaustion,fatigue
+vaginal itching,pruritus vulvae
+thick white discharge,leukorrhea
+redness,erythema
+facial weakness,facial palsy
+drooping,ptosis
+difficulty closing eye,lagophthalmos
+altered taste,dysgeusia
+hand numbness,carpal paresthesia
+tingling,paresthesia
+pain radiating up arm,brachialgia
+eye stinging,ocular irritation
+light sensitivity,photophobia
+stretched shiny skin,cutaneous distension
+increased abdominal size,abdominal enlargement
+puffiness,edema
+pus-filled blisters,pustules
+burning,dysesthesia
+tenderness,soreness
+high body temp,hyperthermia
+altered mental state,confusion
+rapid heartbeat,tachycardia
+difficulty falling asleep,initial insomnia
+waking up often,sleep maintenance insomnia
+daytime tiredness,excessive daytime sleepiness
+flaking skin,desquamation
+worsening with sweating,hidromeiosis
+frequent urination,pollakiuria
+burning urination,dysuria
+hoarseness,dysphonia
+weak voice,vocal weakness
+throat tickling,pharyngeal irritation
+raw throat,sore throat
+dry cough,non-productive cough
+breast pain,mastalgia
+warmth,calor
+ear pain,otalgia
+itchiness,pruritus
+drainage,otorrhea
+muffled hearing,conductive hearing loss
+heel pain,calcaneodynia
+color changes,cyanosis
+numbness,hypoesthesia
+lower back pain,lumbago
+leg pain,lower extremity pain
+hip pain,coxalgia
+ringing in ears,tinnitus
+buzzing,tinnitus
+hissing,tinnitus
+clicking,tinnitus
+roaring sounds,tinnitus
+red welts,urticaria
+white patches on skin,vitiligo
+premature whitening of hair,canities
+loss of color in mouth,oral depigmentation
+small fleshy bumps,skin tags
+rough surface,hyperkeratosis
+black pinpoints,comedones
+pain when pressed,tenderness
+dry mouth,xerostomia
+sticky saliva,thick saliva
+difficulty chewing,mastication problems
+muscle pain,myalgia
+eye skin lesions,periocular lesions
