@@ -79,5 +79,9 @@ IMPORTANT
 
 - Always start the Scala backend first using `sbt run` before launching the Streamlit interface.
 - Make sure both `streamlit` and `py4j` are installed.
+--------------------
+DEMO VIDEO
+--------------------
+https://drive.google.com/drive/folders/1-BL8ccIplK18eEh1eGEJRZC13ompRO93?usp=drive_link
 
 
